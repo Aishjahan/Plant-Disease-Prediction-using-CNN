@@ -10,6 +10,8 @@ Demo
 
 ![Plant Disease Classification Model](Screenshot%202024-12-03%20125238.png)
 
+Prediction - 
+
 ![Plant Disease Classification Model](Screenshot%202024-12-03%20125257.png)
 
 
