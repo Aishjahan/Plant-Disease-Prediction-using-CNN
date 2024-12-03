@@ -8,9 +8,9 @@ The system processes images of plant leaves, extracts relevant features through 
 Demo
 -----
 
-![Plant Disease Classification Model](Screenshot%2024-12-03%125238.png)
+![Plant Disease Classification Model](Screenshot%202024-12-03%20125238.png)
 
-![Plant Disease Classification Model](Screenshot%2024-12-03%125257.png)
+![Plant Disease Classification Model](Screenshot%202024-12-03%20125257.png)
 
 
 
