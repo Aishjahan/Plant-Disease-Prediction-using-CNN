@@ -4,6 +4,16 @@ Plant Disease Prediction using CNN
 This project aims to develop a deep learning model that can classify various plant diseases using a Convolutional Neural Network (CNN). The model leverages image data of plant leaves, training the network to identify disease patterns and classify them accurately into different categories.
 
 The system processes images of plant leaves, extracts relevant features through convolutional layers, and classifies them into specific disease categories using a fully connected layer. The project leverages modern techniques in image classification, which are critical for automating plant disease detection.
+
+Demo
+-----
+
+![Plant Disease Classification Model](Screenshot_2024-12-03_125238.png)
+
+![Plant Disease Classification Model](Screenshot_2024-12-03_125257.png)
+
+
+
 Features
 --------
 
